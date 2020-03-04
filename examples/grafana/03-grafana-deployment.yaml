@@ -76,4 +76,3 @@ spec:
             items:
               - key: providers.yaml
                 path: providers.yaml
----
